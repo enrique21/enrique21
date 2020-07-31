@@ -1,5 +1,5 @@
-<h1>Hola, mi nombre es Juan Enrique Rojas Sánchez</h1>
-<p>👨🏽‍💻Desarrollador.</p>
+<h1>Hola, soy Juan Enrique Rojas Sánchez</h1>
+<p>👨🏽‍💻 Desarrollador Back Senior</p>
 <ul>
   <li>🎓 <b>Estudios:</b></li>
       <ul>
