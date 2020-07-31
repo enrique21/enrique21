@@ -1,10 +1,10 @@
 <h1>Hola, mi nombre es Juan Enrique Rojas Sánchez</h1>
-<p>🙋🏽‍♂️Desarrollador.</p>
+<p>👨🏽‍💻Desarrollador.</p>
 <ul>
   <li>:mortar_board: Máster en Big Data y Data Science - Universidad Internacional de Valencia (España 🇪🇸)</li>
   <li>:mortar_board: Ingenería de Computación - Universidad Nacional Autónoma de México (México 🇲🇽)</li>
   <li>:mortar_board: Ingenería de Sistemas y Computación - Universidad Santo Toribio de Mogrovejo (Perú 🇵🇪)</li>
-  <li>👨🏽‍💻 Intereses:</li>
+  <li>💻 Intereses:</li>
       <ul>
         <li>Cloud Computing</li>
         <li>Big Data</li>
@@ -12,7 +12,7 @@
         <li>Api Management</li>
         <li>Microservices</li>
       </ul>
-  <li>👨🏽‍📝 Certificaciones </li>
+  <li>📝 Certificaciones </li>
       <ul>
         <li>Huawei Certified ICT Associate - Cloud Service</li>
         <li>Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate</li>
