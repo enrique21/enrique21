@@ -7,7 +7,7 @@
         <li>Ingenería de Computación - Universidad Nacional Autónoma de México (México 🇲🇽)</li>
         <li>Ingenería de Sistemas y Computación - Universidad Santo Toribio de Mogrovejo (Perú 🇵🇪)</li>
       </ul>
-  <li>💻 <b>Intereses:</b></li>
+  <br><li>💻 <b>Intereses:</b></li>
       <ul>
         <li>Cloud Computing</li>
         <li>Big Data</li>
@@ -15,7 +15,7 @@
         <li>Api Management</li>
         <li>Microservices</li>
       </ul>
-  <li>📝 <b>Certificaciones:</b></li>
+  <br><li>📝 <b>Certificaciones:</b></li>
       <ul>
         <li>Huawei Certified ICT Associate - Cloud Service</li>
         <li>Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate</li>
