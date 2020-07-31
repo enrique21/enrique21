@@ -1,23 +1,9 @@
-
-
-<!--
-**josedlujan/josedlujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>Hi! My name is José Luján</h1>
-<p>🙋🏽‍♂️I'm Developer, teacher and writer.</p>
+<h1>Hola, mi nombre es Juan Enrique Rojas Sánchez</h1>
+<p>🙋🏽‍♂️Desarrolador.</p>
 <ul>
-  <li>:mortar_board: Telematics Engineer and M.T.I (ITESM - Tec de Monterrey)</li>
+  <li>:mortar_board: Máster en Big Data y Data Science - Universidad Internacional de Valencia (España)</li>
+  <li>:mortar_board: Ingenería de Computación - Universidad Nacional Autónoma de México (México)</li>
+  <li>:mortar_board: Ingenería de Sistemas y Computación - Universidad Santo Toribio de Mogrovejo (Perú)</li>
   <li>👨🏽‍💻 Languages and Technologies:</li>
       <ul>
         <li>Java</li>
