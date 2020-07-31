@@ -4,7 +4,7 @@
   <li>:mortar_board: Máster en Big Data y Data Science - Universidad Internacional de Valencia (España 🇪🇸)</li>
   <li>:mortar_board: Ingenería de Computación - Universidad Nacional Autónoma de México (México 🇲🇽)</li>
   <li>:mortar_board: Ingenería de Sistemas y Computación - Universidad Santo Toribio de Mogrovejo (Perú 🇵🇪)</li>
-  <li>💻 ###Intereses:</li>
+  <li>💻 <b>Intereses:</b></li>
       <ul>
         <li>Cloud Computing</li>
         <li>Big Data</li>
