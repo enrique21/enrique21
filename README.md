@@ -17,6 +17,7 @@
       </ul>
   <br><li>📝 <b>Certificaciones:</b></li>
       <ul>
+        <li>Microsoft Azure AI Fundamentals</li>
         <li>Alibaba Cloud Associate – Big Data</li>
         <li>Alibaba Cloud Associate – Cloud Security</li>
         <li>Alibaba Cloud Associate – Cloud Computing</li>
