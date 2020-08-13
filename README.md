@@ -18,6 +18,7 @@
   <br><li>📝 <b>Certificaciones:</b></li>
       <ul>
         <li>Microsoft Azure AI Fundamentals</li>
+        <li>Microsoft Azure Data Fundamentals</li>
         <li>Alibaba Cloud Associate – Big Data</li>
         <li>Alibaba Cloud Associate – Cloud Security</li>
         <li>Alibaba Cloud Associate – Cloud Computing</li>
@@ -26,6 +27,8 @@
         <li>Oracle Cloud Infrastructure Developer 2020 Certified Associate</li>
         <li>Oracle Autonomous Database Cloud 2019 Certified Specialist</li>
         <li>Oracle Cloud Infrastructure Foundations 2020</li>
+        <li>Scrum Foundation Professional Certificate (SFPC)</li>
+        <li>DevOps Essentials Professional Certificate (DEPC)</li>
       </ul>
 
 <!--
