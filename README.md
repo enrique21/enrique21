@@ -23,6 +23,7 @@
         <li>Alibaba Cloud Associate – Cloud Security</li>
         <li>Alibaba Cloud Associate – Cloud Computing</li>
         <li>Huawei Certified ICT Associate - Cloud Service</li>
+        <li>Oracle Cloud Infrastructure 2019 Certified Architect Associate</li>
         <li>Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate</li>
         <li>Oracle Cloud Infrastructure Developer 2020 Certified Associate</li>
         <li>Oracle Autonomous Database Cloud 2019 Certified Specialist</li>
