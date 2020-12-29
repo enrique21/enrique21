@@ -17,11 +17,16 @@
       </ul>
   <br><li>📝 <b>Certificaciones:</b></li>
       <ul>
+        <li>Google Cloud - Associate Cloud Engineer</li>
+        <li>Microsoft Azure Administrator Associate</li>
+        <li>Microsoft Azure Developer Associate</li>
+        <li>Microsoft Azure Fundamentals</li>        
         <li>Microsoft Azure AI Fundamentals</li>
         <li>Microsoft Azure Data Fundamentals</li>
         <li>Alibaba Cloud Associate – Big Data</li>
         <li>Alibaba Cloud Associate – Cloud Security</li>
         <li>Alibaba Cloud Associate – Cloud Computing</li>
+        <li>Alibaba Cloud Associate – Cloud Native</li>
         <li>Huawei Certified ICT Associate - Cloud Service</li>
         <li>Oracle Cloud Infrastructure 2019 Certified Architect Associate</li>
         <li>Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate</li>
