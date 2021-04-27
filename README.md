@@ -10,6 +10,7 @@
   <br><li>💻 <b>Intereses:</b></li>
       <ul>
         <li>Cloud Computing</li>
+        <li>DevOps</li>
         <li>Big Data</li>
         <li>Storage</li>
         <li>Api Management</li>
