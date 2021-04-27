@@ -17,6 +17,7 @@
       </ul>
   <br><li>📝 <b>Certificaciones:</b></li>
       <ul>
+        <li>Amazon Web Services - Developer Associate</li>
         <li>Google Cloud - Associate Cloud Engineer</li>
         <li>Microsoft Azure Administrator Associate</li>
         <li>Microsoft Azure Developer Associate</li>
