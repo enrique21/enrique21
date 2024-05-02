@@ -19,11 +19,12 @@
         <li>Oracle Cloud Infrastructure 2023 Certified DevOps Professional</li>
         <li>Amazon Web Services - Developer Associate</li>
         <li>Google Cloud Certified - Associate Cloud Engineer</li>
-        <li>Microsoft Azure Administrator Associate</li>
-        <li>Microsoft Azure Developer Associate</li>
-        <li>Microsoft Azure Fundamentals</li>        
-        <li>Microsoft Azure AI Fundamentals</li>
-        <li>Microsoft Azure Data Fundamentals</li>
+        <li>Microsoft Certified: DevOps Engineer Expert</li>
+        <li>Microsoft Certified: Azure Administrator Associate</li>
+        <li>Microsoft Certified: Azure Developer Associate</li>
+        <li>Microsoft Certified: Azure Fundamentals</li>        
+        <li>Microsoft Certified: Azure AI Fundamentals</li>
+        <li>Microsoft Certified: Azure Data Fundamentals</li>
         <li>Alibaba Cloud Associate – Big Data</li>
         <li>Alibaba Cloud Associate – Cloud Security</li>
         <li>Alibaba Cloud Associate – Cloud Computing</li>
