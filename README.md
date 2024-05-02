@@ -11,15 +11,14 @@
       <ul>
         <li>Cloud Computing</li>
         <li>DevOps</li>
-        <li>Big Data</li>
-        <li>Storage</li>
         <li>Api Management</li>
-        <li>Microservices</li>
       </ul>
   <br><li>📝 <b>Certificaciones:</b></li>
       <ul>
+        <li>Google Cloud Certified - Professional Cloud DevOps Engineer</li>
+        <li>Oracle Cloud Infrastructure 2023 Certified DevOps Professional</li>
         <li>Amazon Web Services - Developer Associate</li>
-        <li>Google Cloud - Associate Cloud Engineer</li>
+        <li>Google Cloud Certified - Associate Cloud Engineer</li>
         <li>Microsoft Azure Administrator Associate</li>
         <li>Microsoft Azure Developer Associate</li>
         <li>Microsoft Azure Fundamentals</li>        
