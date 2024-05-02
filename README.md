@@ -1,5 +1,5 @@
 <h1>Hola, soy Juan Enrique Rojas Sánchez</h1>
-<p>👨🏽‍💻 Developer | Cloud | DevOps </p>
+<p>👨🏽‍💻 DevOps Engineer </p>
 <ul>
   <li>🎓 <b>Estudios:</b></li>
       <ul>
